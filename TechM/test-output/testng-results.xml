@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-15T20:56:45 IST" name="Default suite" finished-at="2023-08-15T20:56:45 IST" duration-ms="97">
+    <groups>
+    </groups>
+    <test started-at="2023-08-15T20:56:45 IST" name="Default test" finished-at="2023-08-15T20:56:45 IST" duration-ms="97">
+      <class name="Testng.Drivecar">
+        <test-method signature="first()[pri:1, instance:Testng.Drivecar@614ca7df]" started-at="2023-08-15T20:56:45 IST" name="first" finished-at="2023-08-15T20:56:45 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="sec()[pri:2, instance:Testng.Drivecar@614ca7df]" started-at="2023-08-15T20:56:45 IST" name="sec" finished-at="2023-08-15T20:56:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sec -->
+        <test-method signature="fourth()[pri:4, instance:Testng.Drivecar@614ca7df]" started-at="2023-08-15T20:56:45 IST" name="fourth" finished-at="2023-08-15T20:56:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourth -->
+      </class> <!-- Testng.Drivecar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
